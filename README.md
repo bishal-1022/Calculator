@@ -52,12 +52,17 @@ If you'd like to contribute to this project, please follow these steps:
 - HTML
 - CSS
 - JavaScript
-
-## Credits
-
-This project was created by Bishal. Feel free to contribute or provide feedback.
-
+  
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
+## Connect with Me
+
+Let's connect! You can find me on:
+
+- [LinkedIn](https://www.linkedin.com/in/bishal2203/)
+- [Twitter](https://twitter.com/Bishal_2203/)
+- [GitHub](https://github.com/bishal-1022/)
+
+Feel free to reach out with any questions or suggestions!
