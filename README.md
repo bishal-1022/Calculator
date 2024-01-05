@@ -10,7 +10,7 @@ A basic calculator built using HTML, CSS, and JavaScript. This project provides 
 
 ## Demo
 
-You can try out the calculator by visiting the [live demo](#) (insert link to your hosted demo).
+You can try out the calculator by visiting the [live demo](https://webappbybishal.netlify.app/).
 
 ## Installation
 
@@ -35,7 +35,7 @@ cd calculator
 1. Enter numbers using the numeric keypad.
 2. Use the operation buttons (+, -, *, /) to perform calculations.
 3. Press the "=" button to see the result.
-4. Click the "C" button to clear the input.
+4. Click the "AC" button to clear the input.
 
 ## Contributing
 
